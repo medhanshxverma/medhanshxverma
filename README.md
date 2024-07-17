@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medhansh Verma</h1>
-<h3 align="center">TJHSST junior delving into Computer Science, Mathematics, Data Science, and Biomedical Informatics. Strong analytical skills and a demonstrated ability to balance rigorous academic and sports commitments, highlighting excellent time management skills and resilience. Eager to learn and improve at every opportunity!</h3>
+<h4 align="center">TJHSST sophomore delving into Computer Science, Mathematics, Data Science, and Biomedical Informatics. Strong analytical skills and a demonstrated ability to balance rigorous academic and sports commitments, highlighting excellent time management skills and resilience. Eager to learn and improve at every opportunity!</h4>
 
 - 🌱 I’m currently learning **advanced techniques in AI and ML, including deep learning frameworks like TensorFlow and PyTorch. I'm focusing on neural network architectures, reinforcement learning algorithms, and natural language processing using transformers like BERT and GPT.**
 
